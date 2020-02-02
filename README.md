@@ -14,4 +14,5 @@ To run the locally from Visual Studio:
 - Press F5 to debug.
 
 
-
+You can access the tests and postman documentation with the following link : 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c07f9f069c4518e40140)
