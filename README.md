@@ -6,7 +6,7 @@ Requirements:
 - Visual Studio
 - SQL Server 2012 Express LocalDB (to run locally)
 
-To run the locally from Visual Studio:
+To run the API locally from Visual Studio:
 
 - Build the solution.
 - Open the Package Manager Console (Tools > NuGet Package Manager > Package Manager Console)
